@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Bilal
 
-## UWaterloo SE '25 — I like working with ML and lower-level programming
+## UWaterloo SE '25 — I like working with ML and systems programming projects.
 
-### Take a look at what I've been working on [lately](https://bilal.software/now) or check out my [blog](https://bilal.software/blog/).
-### In the past, you could find me [training neural networks](https://bilal.software/explore/), writing [fast machine learning libraries](https://github.com/bkkaggle/L2), and doing full-stack and mobile development.
+### In the past, you could find me training neural networks, writing [fast machine learning libraries](https://github.com/bkkaggle/L2), and doing full-stack and mobile development.
