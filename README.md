@@ -1,11 +1,5 @@
-# 👋 Hi, I'm Bilal
+# hi, i'm bilal!
 
-## UWaterloo SE '25 — I like working with ML research and systems programming projects.
+#### uwaterloo software engineering '25 — i'm currently interested in machine learning research, particularly in generative modeling. a little bit about me:
 
-In the past, you could find me training neural networks, writing [fast machine learning libraries](https://github.com/bkkaggle/L2), and doing full-stack and mobile development.
-
-If you think my projects (or me) are interesting please don't hesitate to contact me!
-
-The best way to contact me is probably through discord: bilal2vec#8916
-
-Alternatively, send me an email bilal.khan1@uwaterloo.ca or look me up on my [other online profiles](https://linktr.ee/bkkaggle)
+check out my [website](https://bkkaggle.github.io) or [look me up](https://linktr.ee/bkkaggle) on my various online profiles
